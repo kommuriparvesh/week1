@@ -1,3 +1,3 @@
 # week1
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/drowsy.gif">
+<img src="https://github.com/kommuriparvesh/week1/blob/main/classdiagram.png">
